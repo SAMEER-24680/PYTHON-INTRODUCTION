@@ -1,0 +1,5 @@
+print(67)
+print("WELCOME TO CODINGAL")
+print("2 + 2=", 5)
+print("WELCOME", 123)
+print("PYTHON")
