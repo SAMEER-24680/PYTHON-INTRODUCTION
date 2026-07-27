@@ -1,0 +1,5 @@
+print ("WELCOME TO PYTHON")
+print (67)
+print ("HELLO PYTHON", 123)
+print ("PYTHON \n")
+print ("CODINGAL", end=".")
